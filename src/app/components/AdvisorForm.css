@@ -1,0 +1,21 @@
+/* AdvisorForm.css */
+.success-message {
+    background: green;
+    color: white;
+    padding: 10px;
+    margin-top: 10px;
+    animation: fadeout 3s forwards;
+  }
+  
+  @keyframes fadeout {
+    0% {
+      opacity: 1;
+    }
+    70% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+  
